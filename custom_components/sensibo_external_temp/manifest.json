@@ -2,7 +2,7 @@
   "domain": "sensibo_external_temp",
   "name": "Sensibo External Temp",
   "codeowners": [],
-  "version: "1.0",
+  "version": "1.0",
   "config_flow": true,
   "dhcp": [
     {
